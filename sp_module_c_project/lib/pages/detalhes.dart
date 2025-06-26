@@ -160,7 +160,7 @@ class _DetalhesState extends State<Detalhes> {
                                       modal.value++;
                                     }),
                                     child: Text(
-                                      'Medio',
+                                      'Médio',
                                       style: TextStyle(fontSize: fontSize),
                                     ),
                                   ),
