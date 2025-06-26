@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "Como Organizar Seus Estudos",
+    "descricao": "Monte sua rotina.",
+    "data": "2025-05-01"
+  },
+  {
+    "id": 2,
+    "titulo": "Física das Cores",
+    "descricao": "Entenda as cores.",
+    "data": "2025-05-08"
+  },
+  {
+    "id": 3,
+    "titulo": "Técnicas de Memorização",
+    "descricao": "Memorize melhor.",
+    "data": "2025-05-15"
+  },
+  {
+    "id": 4,
+    "titulo": "Evite a Procrastinação",
+    "descricao": "Foque no estudo.",
+    "data": "2025-05-22"
+  },
+  {
+    "id": 5,
+    "titulo": "Ambiente de Estudo Ideal",
+    "descricao": "Estude com conforto.",
+    "data": "2025-05-29"
+  }
+]
